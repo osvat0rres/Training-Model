@@ -1,3 +1,4 @@
 # YOLO Algorithm 
 This files are for training datasets with YOLO algorithm using computer CPU or GPU for a faster time. 
 Other files are fro detecting ethir a photo, vedio or usinbg avalible web cam....
+The traine model are just for hose objects
