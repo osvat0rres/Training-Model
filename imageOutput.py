@@ -6,10 +6,12 @@ def main():
     print("Running YOLO on image...")
 
     # Load model
-    model = YOLO("best_model.pt")
+    #model name ( .pt file) 
+    model = YOLO("")
 
     # Load image
-    image_path = "picture5.jpg"
+    #path to the image
+    image_path = " "
     frame = cv2.imread(image_path)
 
     if frame is None:
