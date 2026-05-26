@@ -11,7 +11,7 @@ def main():
     print("Starting YOLO webcam detection...")
 
     # name of the model
-    model = YOLO("example.pt")
+    model = YOLO("")
 
     cap = cv2.VideoCapture(0)
 
