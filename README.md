@@ -122,4 +122,6 @@ python webcamOutput.py
 - Make sure the trained YOLO model weights are correctly placed in the project directory before running detection scripts.
 - Webcam detection requires a working camera connected to the device.
 - Using a GPU is recommended for faster training and detection performance.
+- some models might be over train
+  
 
