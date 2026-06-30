@@ -100,7 +100,7 @@ pip install -r requirements.txt
 ## Running the Project
 
 ### Run image detection
-```bash
+```
 python imageOutput.py
 ```
 
@@ -123,5 +123,7 @@ python webcamOutput.py
 - Webcam detection requires a working camera connected to the device.
 - Using a GPU is recommended for faster training and detection performance.
 - some models might be over train
+- you can also use google code lab
+- 
   
 
